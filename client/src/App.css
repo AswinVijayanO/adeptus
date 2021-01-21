@@ -1,0 +1,19 @@
+.header{
+}
+.header h1 {
+  color: rgb(0, 136, 255);
+}
+.box{
+  margin: 10px;
+  background-color: rgb(255, 255, 255);
+  color: #ffffff88;
+  border-radius: 10px;
+  font-weight: bold;
+  overflow:auto
+}
+.site-layout-background{
+  background-color: transparent;
+}
+.ant-layout{
+  background-color: transparent !important;
+}
